@@ -13,4 +13,4 @@ other.channels.get("513397023567773707").send(`${ReBeL[Math.floor(Math.random() 
 },300);
 });
 
-other.login("NDc5NjAzMTIwNDgyMTU2NTU4.DtHeyA.UyFXi3FEpYEZEc1v09mBFYscfm0")
+other.login()
