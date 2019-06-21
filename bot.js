@@ -8,8 +8,8 @@ other.on('ready', () => {
 other.on('ready', async () => {
       let ReBeL = ["هلا بلزين تراني بوت تبند اشيلك","هي انا بولعها كريديتس لوووووول","Hi Im Credits Agaaaaaaaaain"]
   setInterval(() => {
-other.channels.get("517302579689029634").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+other.channels.get("591701938635276300").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
 });
 
-other.login("NTE0NDU3MTk3NDM5MjIxNzYw.DuAKIQ.Nw3FqQ6bMkVH1MJggXdEJIwkenA")
+other.login("NTkxNzM5NDAxMjQ0MjQ2MDE2.XQ1KYg.5T_e6fgSk8mVTauGnFUToEqnBBI")
